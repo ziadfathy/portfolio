@@ -1,0 +1,35 @@
+/** ADD YOUR AWESOME CODES HERE **/
+
+.message-box h2 {
+    font-size: 40px
+}
+
+.message-box p {
+    color: #777;
+    font-size: 16px;
+    line-height: 1.6
+}
+
+.message-box h3 {
+    font-size: 30px
+}
+
+.message-box ul li {
+    color: #666;
+    font-size: 18px;
+    padding: 2px;
+    border: 1px solid #999;
+    margin: 10px;
+}
+
+.services-inner-box p {
+    color: #666
+}
+
+.gallery-list row {
+    overflow: hidden
+}
+
+#contact .section-title p {
+    font-size: 40PX;
+}
